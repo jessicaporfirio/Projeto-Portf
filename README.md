@@ -1,0 +1,1 @@
+Nesse portfólio fictício, o foco foi desenvolver um design responsivo utilizando CSS Grid, Flexbox e boas práticas de estilização. Além disso, foi trabalho com pseudoelementos e layouts dinâmicos para melhorar a experiência visual e funcional do site. O projeto se adapta perfeitamente a diferentes tamanhos de tela.
